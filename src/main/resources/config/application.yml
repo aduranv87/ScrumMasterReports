@@ -143,4 +143,20 @@ jhipster:
 # https://www.jhipster.tech/common-application-properties/
 # ===================================================================
 
-# application:
+application:
+  scrumBuddyEmail: scrumbuddy@buddy.com
+  jira:
+    username: jira_username
+    password: jira_pass
+    velocityUrl: http://jira/velocity/url
+    issuesUrl: http://jira/jql/issues
+    scheduler:
+      issuesStatus: 120000
+      velocityReport: 17280000
+  mailServer:
+    enableTLS: true
+    port: 587
+    host: smtp.email.com
+    auth: true
+    username: username@email.com
+    password: password
