@@ -16,8 +16,8 @@
 logging:
   level:
     ROOT: INFO
-    com.sevensenders.com: INFO
     io.github.jhipster: INFO
+    com.sevensenders.com: INFO
 
 management:
   metrics:
