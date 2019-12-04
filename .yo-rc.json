@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.sevensenders.com"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "7shackaton",
+    "packageName": "com.sevensenders.com",
+    "packageFolder": "com/sevensenders/com",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjI5YzdmMGU2ODJhNGE5ODNkODYyYzA0NjA2NmIzZjI0Yjg3ODExYWVjN2I2MTZiNDdkYzU4OGU4MjJjZjk1NjhmZGE4NWEyOTU1MjFmZmVlMDU4MDI0NGU4ZGViZTI3YmRkMGIwMmRhMTYzOWRlZmY2YjZhYWZhM2FiZGY2ZTA=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "dark",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
